@@ -2,7 +2,7 @@
 We invite participation in the AI Systems Workshop which will be held in conjunction with SOSP 2017 on October 29, 2017 in Shanghai, China.
 ## Overview
  
-The goal of this workshop is to bring together experts working at the crossroads of ML, system design and software engineering to explore the challenges faced when building practical large-scale machine learning systems. In particular, we aim to elicit new connections among these diverse fields, identify tools, best practices and design principles. The workshop will cover ML and AI platforms and algorithm toolkits (Caffe, Tensor Flow, Torch etc), as well as dive into Machine learning focused developments in distributed learning platforms, programming languages, data structures and general purpose GPU programming.
+The goal of this workshop is to bring together experts working at the crossroads of ML, system design and software engineering to explore the challenges faced when building practical large-scale machine learning systems. In particular, we aim to elicit new connections among these diverse fields, identify tools, best practices and design principles. The workshop will cover ML and AI platforms and algorithm toolkits (Caffe 2.0, Tensor Flow, Torch etc), as well as dive into Machine learning focused developments in distributed learning platforms, programming languages, data structures and general purpose GPU programming.
  
 We welcome high quality posters summarizing work in the broad area of large scale systems and software design for machine learning.   A few (non-exhaustive) topics of interest include
 * Systems for training and serving machine learning models at scale
