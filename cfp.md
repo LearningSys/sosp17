@@ -22,7 +22,7 @@ Through invited talks and poster presentations by the participants, this worksho
 We welcome poster abstracts up to 2 pages (not including references)
 * All submissions must be in PDF format and should follow the TBD format
 * Submissions do not have to be anonymized
-* Please submit your abstract no later than August 31, 2017 using CMT: https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FASWSOSP2017  
+* Please submit your abstract no later than August 31, 2017 using CMT: <https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FASWSOSP2017>
 ## Important Dates
 * Poster Abstract Submission Deadline: August 31, 2017
 * Acceptance Notifications: September 20, 2016
