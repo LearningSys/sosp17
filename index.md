@@ -13,7 +13,7 @@ This workshop will follow the successful model we have previously run with the M
 We invite participation in the AI Systems Workshop which will be held in conjunction with SOSP 2017 on October 29, 2017 in Shanghai, China.
 
 * **Submission Deadline:** August 31, 2017
-* **Submission Website:** https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FASWSOSP2017  
+* **Submission Details:** http://learningsys.org/sosp17/cfp.html  
 * **Submission Details:** Poster abstracts can be up to 2 pages not including references and should use the TBD format
 
 ## Organizing Committee
