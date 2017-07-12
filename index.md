@@ -17,7 +17,7 @@ We invite participation in the AI Systems Workshop which will be held in conjunc
 * **Submission Details:** Poster abstracts can be up to 2 pages not including references and should use the TBD format
 
 ## Organizing Committee
-+ Sarah Bird, Facebook <slbird@fb.com>
++ Sarah Bird, Facebook Research <slbird@fb.com>
 + Garth Gibson, CMU, <garth@cs.cmu.edu>
 + Joseph Gonzalez, UC Berkeley, <jegonzal@berkeley.edu>
 + Aparna Lakshmiratan, Facebook, <aparnal@fb.com>
