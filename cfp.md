@@ -1,4 +1,4 @@
-# Call for Papers - AI Systems Workshop @ SOSP 2017
+# Call for Posters - AI Systems Workshop @ SOSP 2017
 We invite participation in the AI Systems Workshop which will be held in conjunction with SOSP 2017 on October 28, 2017 in Shanghai, China.
 ## Overview
  
