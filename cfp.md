@@ -27,6 +27,6 @@ We welcome poster abstracts up to 2 pages (not including references)
 * Poster Abstract Submission Deadline: August 31, 2017
 * Acceptance Notifications: September 20, 2016
 * Final File Upload: October 10, 2016
-* Workshop: October 29, 2017
+* Workshop: October 28, 2017
 ## Contact Us
-Contact us at sidsen@microsoft.com
+Contact us at ai-systems-workshop-2017@googlegroups.com 
