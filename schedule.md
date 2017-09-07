@@ -4,7 +4,7 @@
 
 8:15 - 8:30            Welcome
  
-**Ai Systems Research in Academia**
+### Ai Systems Research in Academia
 
 8:30 - 9.05            Matei Zaharia, Assistant Professor, Stanford
 
@@ -15,7 +15,7 @@
  
 10:15 - 10:45       Break
  
-**AI Systems Bonanza**
+### AI Systems Bonanza
 
 10:45 - 11:30       Systems Spotlights
 
@@ -29,7 +29,7 @@
 2:05 - 3:00            Poster Session + Coffee Break
 
  
-**AI Systems in Industry**
+### AI Systems in Industry
 
 3:00 - 3:35            TensorFlow, Google
 
