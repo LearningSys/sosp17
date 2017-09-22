@@ -27,8 +27,8 @@ We welcome poster abstracts up to 2 pages for both the submission and camera rea
 *Please not that we are not accepting 6-page papers this time around, but welcome longer submissions in future workshops (stay tuned for details).
 ## Important Dates
 * Poster Abstract Submission Deadline **EXTENDED**: Sepember 10, 2017, 11.59pm PST
-* Acceptance Notifications: September 20, 2016
-* Final File Upload: October 10, 2016
+* Acceptance Notifications: September 20, 2017
+* Final File Upload: October 10, 2017
 * Workshop: October 28, 2017
 ## Contact Us
 Contact us at ai-systems-workshop-2017@googlegroups.com 
