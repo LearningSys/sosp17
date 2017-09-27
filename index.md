@@ -19,7 +19,7 @@ We invite participation in the AI Systems Workshop which will be held in conjunc
 ## Organizing Committee
 + Sarah Bird, Facebook Research <slbird@fb.com>
 + Dan Crankshaw, UC Berkeley <crankshaw@cs.berkeley.edu>
-+ Garth Gibson, CMU, <garth@cs.cmu.edu>
++ Garth Gibson, CMU and Vector Institute, <garth@cs.cmu.edu>
 + Joseph Gonzalez, UC Berkeley, <jegonzal@berkeley.edu>
 + Aparna Lakshmiratan, Facebook, <aparnal@fb.com>
 + Siddhartha Sen, Microsoft Research, <sidsen@microsoft.com>
