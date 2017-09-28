@@ -1,7 +1,7 @@
 
 # Accepted Posters
 
-Here is the list of posters accepted to the workshop.
+
 
 **Experiences of Deep Learning Optimization on PAI**
  * Wang Siyu*, AlibabaGroup; Jun Yang, Alibaba; Li Lanbo, AlibabaGroup
