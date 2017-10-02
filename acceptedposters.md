@@ -20,7 +20,7 @@
   * Aurick Qiao*, Petuum, Inc.
  
  **Cavs: A Vertex-centric Symbolic Programming Model for Dynamic Dataflow Graphs**
-  * Hao Zhang*, Carnegie Mellon University; Shizhen Xu, Carnegie Mellon University; Graham Neubig, Carnegie Mellon University; Qirong Ho, Petuum Inc.; Eric Xing, Petuum Inc.
+  * Shizhen Xu, Carnegie Mellon University; Hao Zhang*, Carnegie Mellon University; Graham Neubig, Carnegie Mellon University; Qirong Ho, Petuum Inc.; Guangwen Yang, Tsinghua University; Eric Xing, Petuum Inc.
  
  **High Accuracy Approximation of Secure Multiparty Neural Network Training**
   * Daniel Ho*, UC Berkeley; Xin Wang, UC Berkeley; Wenting Zheng, UC Berkeley; Joseph Gonzalez, UC Berkeley; Raluca Popa, UC Berkeley; Ion Stoica, UC Berkeley
