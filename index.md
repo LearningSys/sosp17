@@ -2,6 +2,8 @@
 layout: default
 ---
 
+**Note: Please register for the workshop at the [SOSP site](https://www.sigops.org/sosp/sosp17/reg.html) if you haven't already. You can select "Workshops Only" as the registrant type if you only wish to attend the workshop, not the main conference (otherwise you must register for the main conference as well).**
+
 # AI Systems Workshop
 
 A new area is emerging at the intersection of artificial intelligence, machine learning, and systems design. This birth is driven by the explosive growth of diverse applications of ML in production, the continued growth in data volume, and the complexity of large-scale learning systems. The goal of this workshop is to bring together experts working at the crossroads of machine learning, system design and software engineering to explore the challenges faced when building practical large-scale ML systems. In particular, we aim to elicit new connections among these diverse fields, and identify tools, best practices and design principles. We also want to think about how to do research in this area and properly evaluate it. The workshop will cover ML and AI platforms and algorithm toolkits, as well as dive into machine learning-focused developments in distributed learning platforms, programming languages, data structures, GPU processing, and other topics.
