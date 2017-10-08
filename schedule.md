@@ -1,16 +1,16 @@
 # Tentative Schedule
  
-8:00 - 8:15            Coffee and Settle In
+8:00 - 8:30            Coffee and Settle In
 
-8:15 - 8:30            Welcome
+8:30 - 8:45            Welcome
  
-### Ai Systems Research in Academia
+### AI Systems Research in Academia
 
-8:30 - 9.05            Matei Zaharia, Assistant Professor, Stanford
+8:45 - 9.15            Matei Zaharia, Assistant Professor, Stanford
 
-9:05 - 9:40            Eric Xing, Professor, CMU
+9:15 - 9:45            Eric Xing, Professor, CMU
 
-9.40 - 10:15          Joseph Gonzalez, Assistant Professor, Berkeley
+9.45 - 10:15          Joseph Gonzalez, Assistant Professor, Berkeley
 
  
 10:15 - 10:45       Break
@@ -24,22 +24,22 @@
  
 12 - 1:30                Lunch
 
-1:30 - 2:05            Bryan Catanzaro, Vice President of Applied Deep Learning Research
+1:30 - 2:00            Bryan Catanzaro, Vice President of Applied Deep Learning Research, Nvidia
 
-2:05 - 3:00            Poster Session + Coffee Break
+2:00 - 3:00            Poster Session + Coffee Break
 
  
 ### AI Systems in Industry
 
-3:00 - 3:35            TensorFlow, Google
+3:00 - 3:30            TensorFlow, Paul Barham, Senior Research Scientist, Google Brain
 
-3:35 - 4:10            Caffe2 + PyTorch, Yangqing Jia, Research Scientist in Applied ML, Facebook
+3:30 - 4:00            Caffe2 + PyTorch, Yangqing Jia, Research Scientist in Applied ML, Facebook
 
-4:10 - 4:45            MXNet, Amazon
+4:00 - 4:30            MXNet, Alex Smola, Director of Machine Learning, Amazon
 
  
-4:45 - 5:30:           **The Future of AI Systems Panel**
+4:30 - 5:15           **The Future of AI Systems Panel**
 
-5:30: Wrap-up
+5:15 - 5:30          Wrap-up and Announcements
 
  
