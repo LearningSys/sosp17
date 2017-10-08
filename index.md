@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Note: Please register for the workshop at the [SOSP site](https://www.sigops.org/sosp/sosp17/reg.html) if you haven't already. You can select "Workshops Only" as the registrant type if you only wish to attend the workshop, not the main conference (otherwise you must register for the main conference as well).**
+**Note: Please register for our workshop at the [SOSP site](https://www.sigops.org/sosp/sosp17/reg.html). You can select "Workshops Only" as the registrant type if you only wish to attend the workshop; if you also want to attend the main conference, you must register for it.**
 
 # AI Systems Workshop
 
