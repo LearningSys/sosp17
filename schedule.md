@@ -13,7 +13,9 @@
 9.45 - 10:15 &nbsp;&nbsp;          Joseph Gonzalez, Assistant Professor, Berkeley
 
 ***
+
 10:15 - 10:45 &nbsp;      Break
+
 ***
 
 ### AI Systems Bonanza
@@ -23,7 +25,9 @@
 11.30 - 12:00 &nbsp;      Poster Previews
 
 ***
+
 12:00 - 1:30 &nbsp;&nbsp;       Lunch
+
 ***
 
 ### AI Systems in Industry I
@@ -33,7 +37,9 @@
 2:00 - 2:30 &nbsp;&nbsp;&nbsp;   TensorFlow, Paul Barham, Senior Research Scientist, Google Brain
 
 ***
+
 2:30 - 3:30 &nbsp;&nbsp;&nbsp;&nbsp;   Poster Session + Coffee Break
+
 ***
  
 ### AI Systems in Industry II
