@@ -24,14 +24,17 @@
  
 12:00 - 1:30 &nbsp;&nbsp;       Lunch
 
+### AI Systems in Industry I
+
 1:30 - 2:00 &nbsp;&nbsp;&nbsp;&nbsp;   Bryan Catanzaro, Vice President of Applied Deep Learning Research, Nvidia
 
-2:00 - 3:00 &nbsp;&nbsp;&nbsp;&nbsp;   Poster Session + Coffee Break
+2:00 - 2:30 &nbsp;&nbsp;&nbsp;   TensorFlow, Paul Barham, Senior Research Scientist, Google Brain
+
+
+2:30 - 3:30 &nbsp;&nbsp;&nbsp;&nbsp;   Poster Session + Coffee Break
 
  
-### AI Systems in Industry
-
-3:00 - 3:30 &nbsp;&nbsp;&nbsp;   TensorFlow, Paul Barham, Senior Research Scientist, Google Brain
+### AI Systems in Industry II
 
 3:30 - 4:00 &nbsp;&nbsp;&nbsp;   Caffe2 + PyTorch, Yangqing Jia, Research Scientist in Applied ML, Facebook
 
