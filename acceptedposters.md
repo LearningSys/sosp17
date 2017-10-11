@@ -47,5 +47,5 @@
   * Subho Banerjee*, University of Illinois at Urbana-Champaign; Zbigniew Kalbarczyk, University of Illinois at Urbana-Champaign ; Steve Lumetta, University of Illinois at Urbana-Champaign ; Ravishankar Iyer, University of Illinois at Urbana-Champaign 
  
  **Improving sample based cluster scheduler with learning based private-cluster-state**
-  * Chunliang Hao*, Institute of Software, Chinese Academy of Science
+  * Chunliang Hao*, Yinrun Lyu, Jie Shen; Celia Chen, Jian Zhai, Mingshu LiInstitute of Software, Chinese Academy of Science
 
