@@ -37,7 +37,7 @@
  **Decentralized Distributed Deep Learning**
   * Wei Zhang*, IBM T.J. Watson; Xiangru Liang, University of Rochester; Ce Zhang, ETH; Ji  Liu, University of Rochester
  
- **Low Latency Model Serving with Lazy Batching**
+ **Low Latency Model Serving with Late Batching**
   * Pin Gao*, Tsinghua University; Lingfan Yu, New York University; Jinyang Li, New York University; Yongwei Wu, Tsinghua University
  
  **HyperDrive: Flexible and Efficient Parallel Hyperparameter Exploration**
