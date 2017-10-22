@@ -17,7 +17,7 @@
   * Haidong Lan, Tencent; Jintao Meng*, Tencent; Fangyun Zhou, Tencent; Chengjun Zhan, Tencent; Minwen Deng, Tencent; Weiguo Liu, Shandong University
  
  **Litz: Transparent Elasticity for High-Performance Machine Learning**
-  * Aurick Qiao*, Petuum, Inc.
+  * Aurick Qiao*; Abutalib Aghayev; Weiren Yu; Haoyang Chen; Qirong Ho; Garth Gibson; Eric Xing, Petuum, Inc.
  
  **Cavs: A Vertex-centric Symbolic Programming Model for Dynamic Dataflow Graphs**
   * Shizhen Xu, Carnegie Mellon University; Hao Zhang*, Carnegie Mellon University; Graham Neubig, Carnegie Mellon University; Qirong Ho, Petuum Inc.; Guangwen Yang, Tsinghua University; Eric Xing, Petuum Inc.
