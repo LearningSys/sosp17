@@ -2,8 +2,11 @@
 layout: default
 ---
 
-**Note: Please register for our workshop at the [SOSP site](https://www.sigops.org/sosp/sosp17/reg.html). You can select "Workshops Only" as the registrant type if you only wish to attend the workshop; if you also want to attend the main conference, you must register for it as well.**
+**[AI Systems Reception Sponsored by Ant Financial](http://learningsys.org/sosp17/happyhour.html): 
+After the workshop, we will have a reception at the Shanghai Tower for workshop attendees to meet and continue discussions.  RSVP is required.  Please email us at  slbird@fb.com if you are registered for the workshop but have not received an invitation.**
 
+**Please register for our workshop at the [SOSP site](https://www.sigops.org/sosp/sosp17/reg.html). You can select "Workshops Only" as the registrant type if you only wish to attend the workshop; if you also want to attend the main conference, you must register for it as well.**
+ 
 **We also run a similar workshop at NIPS, called the [ML Systems](http://learningsys.org/nips17) workshop, which accepts longer (6-page) submissions. Please consider submitting there!**
 
 # AI Systems Workshop
