@@ -1,1 +1,1 @@
-![alt text](assets/images/ant-financial-invitation.jpg "Ant Financial Happy Hour")
+![alt text](assets/images/ant-recep-invitation.jpg "Ant Financial Happy Hour")
