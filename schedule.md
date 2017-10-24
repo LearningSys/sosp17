@@ -57,6 +57,6 @@
 ***
 ### Reception
 
-6:00 - 8:00 &nbsp;&nbsp;&nbsp;   [Reception](http://learningsys.org/sosp17/happyhour.html) at Shaghai Tower sponsored by Ant Financial
+6:00 - 8:00 &nbsp;&nbsp;&nbsp;   [Reception](http://learningsys.org/sosp17/happyhour.html) at Shanghai Tower sponsored by Ant Financial
 
  
