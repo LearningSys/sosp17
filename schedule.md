@@ -54,4 +54,9 @@
 
 5:15 - 5:30 &nbsp;&nbsp;&nbsp;   Wrap-up and Announcements
 
+***
+### Reception
+
+6:00 - 8:00 &nbsp;&nbsp;&nbsp;   [Reception](http://learningsys.org/sosp17/happyhour.html) at Shaghai Tower sponsored by Ant Financial
+
  
