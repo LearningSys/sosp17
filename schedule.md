@@ -6,21 +6,21 @@
  
 ### AI Systems Research in Academia
 
-8:45 - 9:15 &nbsp;&nbsp;&nbsp;&nbsp;     Matei Zaharia, Assistant Professor, Stanford
+8:45 - 9:15 &nbsp;&nbsp;&nbsp;&nbsp;     Eric Xing, Professor, CMU
 
-9:15 - 9:45 &nbsp;&nbsp;&nbsp;&nbsp;     Eric Xing, Professor, CMU
+9:15 - 9:45 &nbsp;&nbsp;&nbsp;&nbsp;     TensorFlow, Paul Barham, Senior Research Scientist, Google Brain **(changed to accommodate schedule conflict)
 
-9.45 - 10:15 &nbsp;&nbsp;          Joseph Gonzalez, Assistant Professor, Berkeley
+9.45 - 10:10 &nbsp;&nbsp;          Joseph Gonzalez, Assistant Professor, Berkeley
 
 ***
 
-10:15 - 10:45 &nbsp;      Break
+10:10 - 10:30 &nbsp;      Break
 
 ***
 
 ### AI Systems Bonanza
 
-10:45 - 11:30 &nbsp;      Systems Spotlights
+10:30 - 11:30 &nbsp;      Systems Spotlights: Tianqi Chen (TVM), Takuya Akiba (ChainerMN), Jun Xu (EasyML), Siddhartha Sen (Decision Service)
 
 11.30 - 12:00 &nbsp;      Poster Previews
 
@@ -34,7 +34,7 @@
 
 1:30 - 2:00 &nbsp;&nbsp;&nbsp;&nbsp;   Bryan Catanzaro, Vice President of Applied Deep Learning Research, Nvidia
 
-2:00 - 2:30 &nbsp;&nbsp;&nbsp;   TensorFlow, Paul Barham, Senior Research Scientist, Google Brain
+2:00 - 2:30 &nbsp;&nbsp;&nbsp;   Matei Zaharia, Assistant Professor, Stanford **(changed to accommodate schedule conflict)
 
 ***
 
