@@ -1,4 +1,4 @@
-# Tentative Schedule
+# Schedule
  
 8:00 - 8:30 &nbsp;&nbsp;&nbsp;&nbsp;     Coffee and Settle In
 
