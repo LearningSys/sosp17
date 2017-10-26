@@ -8,7 +8,7 @@
 
 8:45 - 9:15 &nbsp;&nbsp;&nbsp;&nbsp;     Eric Xing, Professor, CMU
 
-9:15 - 9:45 &nbsp;&nbsp;&nbsp;&nbsp;     TensorFlow, Paul Barham, Senior Research Scientist, Google Brain **(changed to accommodate schedule conflict)
+9:15 - 9:45 &nbsp;&nbsp;&nbsp;&nbsp;     TensorFlow, Paul Barham, Principal Scientist, Google Brain **(changed to accommodate schedule conflict)
 
 9.45 - 10:10 &nbsp;&nbsp;          Joseph Gonzalez, Assistant Professor, Berkeley
 
