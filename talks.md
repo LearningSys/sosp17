@@ -13,7 +13,7 @@ Eric P. Xing is a Professor of Computer Science at Carnegie Mellon University, a
 
 **Paul Barham** (Principal Scientist, Google Brain)
 
-Title: "Future Directions in Large Scale Machine Learning, or... Programming Supercomputers from Python"
+Title: Future Directions in Large Scale Machine Learning, or... Programming Supercomputers from Python
  
 Abstract:
 In this talk I will describe recent changes and future directions for machine learning systems like TensorFlow, driven by the requirements of a rapidly growing ML research community. I will discuss evolution of programming models and ML model architectures, and the exciting opportunities provided by powerful new hardware platforms (TPUs).
@@ -24,7 +24,7 @@ His research interests include performance analysis of distributed systems, oper
 
 ***
 
-**Joseph Gonzalez, Assistant Professor, Berkeley
+**Joseph Gonzalez** (Assistant Professor, UC Berkeley)
 
 Title: RISE to the Challenges of AI Systems
 
@@ -109,7 +109,7 @@ Dr. Jun Xu received his B.E. and Ph.D. in Computer Science from Nankai Universit
 
 **Siddhartha Sen** (Researcher, Microsoft Research)
 
-Title: Decision Service: The Power of Offline Evaluation in Online Decision Making
+Title: Decision Service: Bringing the Power of Offline Evaluation to Online Decision Making
 
 Abstract:
 Applications and systems are constantly faced with decisions that require picking from a set of actions based on contextual information. Reinforcement-based learning algorithms such as contextual bandits can be very effective in these settings, but applying them in practice faces fundamental challenges, and no general system exists that supports them completely. To address this problem, we created the Decision Service: the first end-to-end system for contextual learning. The Decision Service enables all aspects of contextual bandit learning using a loop of four system abstractions: explore (the decision space), log, learn, and deploy. These abstractions, together with a carefully synthesized ML methodology, enable a powerful capability called *offline evaluation*, which allows us to accurately evaluate policies without deploying them. The Decision Service has a simple user interface and has been deployed with strong results in a variety of settings, including content recommendation, customer tech support, and machine failure handling. The Decision Service is publicly offered as a Microsoft Cognitive Service and is also available as open-source.
