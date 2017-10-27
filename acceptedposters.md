@@ -25,7 +25,7 @@
  **High Accuracy Approximation of Secure Multiparty Neural Network Training**
   * Daniel Ho*, UC Berkeley; Xin Wang, UC Berkeley; Wenting Zheng, UC Berkeley; Joseph Gonzalez, UC Berkeley; Raluca Popa, UC Berkeley; Ion Stoica, UC Berkeley
  
- **DAWNBench: An End-to-End Deep Learning Benchmark and Competition**
+ [**DAWNBench: An End-to-End Deep Learning Benchmark and Competition**](https://github.com/LearningSys/sosp17/blob/master/papers/10%5CCameraReadySubmission%5Csosp17-dawnbench.pdf)
   * Cody Coleman, Stanford; Deepak Narayanan*, Stanford; Daniel Kang, Stanford University; Tian Zhao, Stanford University; Jian Zhang, Stanford; Luigi Nardi, Stanford; Peter Bailis, MIT and Stanford; Kunle Olukotun, Stanford University; Christopher Re, Stanford University; Matei Zaharia, Stanford
  
  **A Reliable, Self-Adaptive Face Identification Framework via Lyapunov Optimization**
