@@ -13,9 +13,6 @@
  [**Learning with Less: Can Approximate Storage Systems Save Learning From Drowning in Data?**](https://github.com/LearningSys/sosp17/blob/master/papers/5%5CCameraReadySubmission%5Csosp17-summarystore.pdf)
   * Nitin Agrawal*, Samsung Research; Ashish Vulimiri, Samsung Research
  
- [**From Cloud to Edge: Enabling Fast Inference Computation for Convolutional Neural Networks on ARM-based Multi-core and Many-core Architectures**](https://github.com/LearningSys/sosp17/blob/master/papers/6%5CCameraReadySubmission%5CSOSP.pdf)
-  * Haidong Lan, Tencent; Jintao Meng*, Tencent; Fangyun Zhou, Tencent; Chengjun Zhan, Tencent; Minwen Deng, Tencent; Weiguo Liu, Shandong University
- 
  [**Litz: Transparent Elasticity for High-Performance Machine Learning**](https://github.com/LearningSys/sosp17/blob/master/papers/7%5CCameraReadySubmission%5Clitz-sosp-aisys%20(4).pdf)
   * Aurick Qiao*; Abutalib Aghayev; Weiren Yu; Haoyang Chen; Qirong Ho; Garth Gibson; Eric Xing, Petuum, Inc.
  
