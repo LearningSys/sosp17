@@ -10,8 +10,8 @@
 
 9:15 - 9:45 &nbsp;&nbsp;&nbsp;&nbsp;     TensorFlow, Paul Barham, Principal Scientist, Google Brain **(changed to accommodate schedule conflict)**
 
-9.45 - 10:10 &nbsp;&nbsp;          Joseph Gonzalez, Assistant Professor, UC Berkeley [slides](assets/slides/gonzalez_rise_sosp_overview.pdf)
-***
+9.45 - 10:10 &nbsp;&nbsp;          Joseph Gonzalez, Assistant Professor, UC Berkeley [[slides](assets/slides/gonzalez_rise_sosp_overview.pdf)]
+
 
 10:10 - 10:30 &nbsp;      Break
 
@@ -31,7 +31,7 @@
 
 ### AI Systems in Industry I
 
-1:30 - 2:00 &nbsp;&nbsp;&nbsp;&nbsp;   Bryan Catanzaro, Vice President of Applied Deep Learning Research, Nvidia [slides](assets/slides/catanzaro_ai_systems_workshop.pdf)
+1:30 - 2:00 &nbsp;&nbsp;&nbsp;&nbsp;   Bryan Catanzaro, Vice President of Applied Deep Learning Research, Nvidia [[slides](assets/slides/catanzaro_ai_systems_workshop.pdf)]
 
 2:00 - 2:30 &nbsp;&nbsp;&nbsp;   Matei Zaharia, Assistant Professor, Stanford **(changed to accommodate schedule conflict)**
 
