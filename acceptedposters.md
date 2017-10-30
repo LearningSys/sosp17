@@ -3,7 +3,7 @@
 
 
 
-[**Experiences of Deep Learning Optimization on PAI**](https://github.com/LearningSys/sosp17/blob/master/papers/1%5CCameraReadySubmission%5CSOSP2017-AI%20System-Experiences%20of%20Deep%20Learning%20Optimization%20on%20PAI.pdf)
+[**Experiences of Deep Learning Optimization on PAI**](https://github.com/LearningSys/sosp17/blob/master/papers/1%5CCameraReadySubmission%5Csosp17.pdf)
  * Wang Siyu*, AlibabaGroup; Jun Yang, Alibaba; Li Lanbo, AlibabaGroup
 
 
