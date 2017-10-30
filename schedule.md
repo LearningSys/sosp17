@@ -5,7 +5,7 @@
 8:30 - 8:45 &nbsp;&nbsp;&nbsp;&nbsp;     Welcome, Sidhartha Sen, Microsoft Research
  
 ### AI Systems Research in Academia 
-(Chair:Garth Gibson, CMU/Vector Institute)
+(Chair: Garth Gibson, CMU/Vector Institute)
 
 8:45 - 9:15 &nbsp;&nbsp;&nbsp;&nbsp;     Eric Xing, Professor, CMU
 
@@ -19,7 +19,7 @@
 ***
 
 ### AI Systems Bonanza 
-(Chair:Aparna Lakshmiratan, Facebook)
+(Chair: Aparna Lakshmiratan, Facebook)
 
 10:30 - 11:30 &nbsp;      Systems Spotlights: Tianqi Chen (TVM), Takuya Akiba (ChainerMN), Jun Xu (EasyML), Siddhartha Sen (Decision Service)
 
