@@ -2,9 +2,10 @@
  
 8:00 - 8:30 &nbsp;&nbsp;&nbsp;&nbsp;     Coffee and Settle In
 
-8:30 - 8:45 &nbsp;&nbsp;&nbsp;&nbsp;     Welcome
+8:30 - 8:45 &nbsp;&nbsp;&nbsp;&nbsp;     Welcome, Sidhartha Sen, Microsoft Research
  
-### AI Systems Research in Academia
+### AI Systems Research in Academia 
+(Chair:Garth Gibson, CMU/Vector Institute)
 
 8:45 - 9:15 &nbsp;&nbsp;&nbsp;&nbsp;     Eric Xing, Professor, CMU
 
@@ -17,7 +18,8 @@
 
 ***
 
-### AI Systems Bonanza
+### AI Systems Bonanza 
+(Chair:Aparna Lakshmiratan, Facebook)
 
 10:30 - 11:30 &nbsp;      Systems Spotlights: Tianqi Chen (TVM), Takuya Akiba (ChainerMN), Jun Xu (EasyML), Siddhartha Sen (Decision Service)
 
@@ -29,7 +31,8 @@
 
 ***
 
-### AI Systems in Industry I
+### AI Systems in Industry I 
+(Chair: Sarah Bird, Facebook)
 
 1:30 - 2:00 &nbsp;&nbsp;&nbsp;&nbsp;   Bryan Catanzaro, Vice President of Applied Deep Learning Research, Nvidia [[slides](assets/slides/catanzaro_ai_systems_workshop.pdf)]
 
@@ -41,7 +44,8 @@
 
 ***
  
-### AI Systems in Industry II
+### AI Systems in Industry II 
+(Chair: Dan Crankshaw, UC Berkeley)
 
 3:30 - 4:00 &nbsp;&nbsp;&nbsp;   Caffe2 + PyTorch, Yangqing Jia, Research Scientist in Applied ML, Facebook
 
@@ -49,7 +53,7 @@
 
 ### Discussion
  
-4:30 - 5:15 &nbsp;&nbsp;&nbsp;   **The Future of AI Systems Panel**
+4:30 - 5:15 &nbsp;&nbsp;&nbsp;   **The Future of AI Systems Panel** (Moderator: Joseph Gonzalez, UC Berkeley)
 
 5:15 - 5:30 &nbsp;&nbsp;&nbsp;   Wrap-up and Announcements
 
